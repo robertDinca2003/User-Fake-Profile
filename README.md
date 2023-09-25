@@ -1,3 +1,11 @@
+# Preview
+
+
+
+https://github.com/robertDinca2003/User-Fake-Profile/assets/71851178/fde1d37b-ff0d-483d-91ec-44912f3a2ca3
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
